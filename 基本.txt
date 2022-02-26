@@ -1,0 +1,48 @@
+10727
+増殖検知回避|c0dd818c|4|e92d4830|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|56118c
+増殖　反映あり|c0dda340|4|e92d4ff0|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|563340
+増殖　AI鬼隠れ|c0dda3fc|4|e35a0000|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|5633fc
+増殖自動　主導権|c0de7f68|4|e3a01001|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|570f68
+増殖　反映なし|c0de81e4|4|e3a01008|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|5711e4
+モノ厳選|c1c97254|4|e1500004|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|a9a254
+事務室1固定|c1d14a74|4|e92d4ff0|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b17a74
+|c1d14a78|4|e28db01c|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b17a78
+殴る範囲拡大|c1d1da54|10|4479c000|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b20a54
+パンチスピード|c1d1da84|4|e3a00000|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b20a84
+体力無限|c1d1dd00|10|42480000|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b20d00
+無音パンチ|c1d1dd34|4|e3a01001|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b20d34
+体力0以降歩行可能|c1d1df28|4|e3a01000|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b20f28
+Tポーズ検知回避|c1d23800|4|e3500001|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b26800
+マップ判定解除|c1d24544|4|e92d4ff0|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b27544
+鬼|c1d2595c|4|e92d4c70|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b2895c
+待機時間バンチ可能|c1d27f64|4|e3a01001|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b2af64
+プレイヤー追放|c1d2badc|4|e3a00000|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b2eadc
+【2】増殖　反映なし|c1d4c71c|4|e584001c|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b4f71c
+SpeedHack検知回避|c1d5bdc4|4|e92d4bf0|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b5edc4
+Var #C1D5BDC8|c1d5bdc8|4|e28db018|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b5edc8
+広告非表示2|c1d5c04c|4|e3a00000|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b5f04c
+Var #C1D5C050|c1d5c050|4|e12fff1e|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b5f050
+酒石器使用可能|c1d60034|4|e3500001|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b63034
+【隠れ】強制勝利|c1d62fec|4|ee010a10|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b65fec
+広告非表示1|c1d64e6c|4|e3a00000|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b67e6c
+Var #C1D64E70|c1d64e70|4|e12fff1e|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b67e70
+マップ上限削除|c1d71544|4|e92d4ff0|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b74544
+エアーパンチ|c1d71840|4|e3a01001|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b74840
+固定|c1d72540|4|5a000056|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b75540
+サーバー待機時間なし|c1d86100|4|e92d4830|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b89100
+鬼側無敵1|c1d8ffb8|4|e92d4ff0|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b92fb8
+鬼側無敵2|c1d8ffbc|4|e28db01c|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|b92fbc
+AI化|c1da17c0|4|e3a01000|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|ba47c0
+増殖残る|c1da189c|4|e589401c|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|ba489c
+レベル表記なし|c1da192c|4|e5894020|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|ba492c
+名前白|c1da1a58|4|e5874010|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|ba4a58
+【1】ネームカラー変更|c1da1ad4|4|e50b0050|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|ba4ad4
+【2】ネームカラー変更|c1da1ba0|4|e58d0060|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|ba4ba0
+判定|c1da2d50|4|e59d0028|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|ba5d50
+ジャンプボタン表示|c1da68e8|4|e3a01000|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|ba98e8
+スタンプボタン表示|c1da6a34|4|e3a01000|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|ba9a34
+無限ジャンプ|c1da7160|4|8a00008e|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|baa160
+スピード|c1dab8b4|10|42700000|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|bae8b4
+スタンプ連打|c1daed48|4|c8bd8830|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|bb1d48
+オーラ・装飾変更|c1f97ebc|4|de0b6b3|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libil2cpp.so|d9aebc
+テレポート|c5e31e30|10|3f4ccccd|0|0|0|0|r-xp|/data/data/io.va.exposed/virtual/data/app/com.igenesoft.hide/lib/libunity.so|911e30
